@@ -1,11 +1,13 @@
 ### color collected website 
 
-```https://colors.dopely.top/colors
+```
+https://colors.dopely.top/colors
 
 ```
 
 ### Install tailwind merge clsx
 
-```─ npm i clsx tailwind-merge
+```
+─ npm i clsx tailwind-merge
 
 ```
